@@ -1,0 +1,3 @@
+Sub1	tblastn	gene	24834	25424	5e-26	-	.	ID=Sub1A;Name=Sub1A
+Sub1	blastn	gene	40577	41780	0.0	-	.	ID=Sub1B;Name=Sub1B
+Sub1	blastn	gene	24816	25514	0.0	-	.	ID=Sub1C;Name=Sub1C

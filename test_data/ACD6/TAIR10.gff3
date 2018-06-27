@@ -1,0 +1,14 @@
+ACD6_Locus	Araport11 	gene	10001	15031	.	+	.	ID=AT4G14400;Name=AT4G14400;Note=ankyrin
+ACD6_Locus	Araport11 	mRNA	10001	15031	.	+	.	ID=AT4G14400.1;Parent=AT4G14400;Name=AT4G14400.1;Note=ankyrin
+ACD6_Locus	Araport11 	exon	10001	10373	.	+	.	ID=AT4G14400:exon:1;Parent=AT4G14400.1;Name=ACD6:exon:1
+ACD6_Locus	Araport11 	five_prime_UTR	10001	10373	.	+	.	ID=AT4G14400:five_prime_UTR:1;Parent=AT4G14400.1;Name=ACD6:five_prime_UTR:1
+ACD6_Locus	Araport11 	five_prime_UTR	10497	10503	.	+	.	ID=AT4G14400:five_prime_UTR:4;Parent=AT4G14400.1;Name=ACD6:five_prime_UTR:4
+ACD6_Locus	Araport11 	CDS	10504	10579	.	+	0	ID=AT4G14400:CDS:1;Parent=AT4G14400.1;Name=ACD6:CDS:1
+ACD6_Locus	Araport11 	CDS	12049	12798	.	+	2	ID=AT4G14400:CDS:2;Parent=AT4G14400.1;Name=ACD6:CDS:2
+ACD6_Locus	Araport11 	CDS	12927	13459	.	+	2	ID=AT4G14400:CDS:4;Parent=AT4G14400.1;Name=ACD6:CDS:4
+ACD6_Locus	Araport11 	CDS	13543	14196	.	+	0	ID=AT4G14400:CDS:5;Parent=AT4G14400.1;Name=ACD6:CDS:5
+ACD6_Locus	Araport11 	exon	13543	15031	.	+	.	ID=AT4G14400:exon:9;Parent=AT4G14400.1;Name=ACD6:exon:9
+ACD6_Locus	Araport11 	three_prime_UTR	14197	15031	.	+	.	ID=AT4G14400:three_prime_UTR:2;Parent=AT4G14400.1;Name=ACD6:three_prime_UTR:2
+ACD6_Locus	Araport11 	exon	12049	12798	.	+	.	ID=AT4G14400:exon:5;Parent=AT4G14400.1,AT4G14400.2;Name=ACD6:exon:5
+ACD6_Locus	Araport11 	exon	10497	10579	.	+	.	ID=AT4G14400:exon:4;Parent=AT4G14400.1,AT4G14400.3;Name=ACD6:exon:4
+ACD6_Locus	Araport11 	exon	12927	13459	.	+	.	ID=AT4G14400:exon:7;Parent=AT4G14400.1,AT4G14400.2,AT4G14400.3;Name=ACD6:exon:7
